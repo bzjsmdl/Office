@@ -1,5 +1,5 @@
 # Office
-This is a ```command-line program``` about some tasks. such as ```file```. It can ```get the size of a file`` and ```output the first N lines of the file (default 10 lines)```. If you like it, you can give me a ```star``` or ```fork```. Thank you for your using!!!
+This is a ```command-line program``` about some tasks. Such as ```file```. It can ```get the size of a file`` and ```output the first N lines of the file (default 10 lines)```. If you like it, you can give me a ```star``` or ```fork```. Thank you for your using!!!
 ## Get the size of a file
 You can use ```size``` to get the size of a file.
 ```EBNF
